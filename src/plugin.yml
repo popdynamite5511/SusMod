@@ -1,0 +1,10 @@
+name: SusMod
+version: 1.0
+author: popdynamite5511
+main: me.sus.SusMod.Susmod
+description: The Sussiest Minecraft Modification
+
+commands: 
+  killme:
+    aliases: [kms]
+    description: /killme or /kms to spawn 10 creepers that kill you
